@@ -18,7 +18,7 @@
 1. Open the project in VS Code
 2. Open the terminal and use the following command to run the project
 ```
-    npm start
+    npm run dev
 ```
 
 # React + Vite
